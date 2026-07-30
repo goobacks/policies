@@ -1,6 +1,6 @@
 # Privacy policy — Kaapse Train Times
 
-*Last updated: 2026-07-29*
+*Last updated: 2026-07-30*
 
 > The canonical version of this policy is published at <https://kaapsetrains.co.za/privacy/>.
 > This file is generated from the same source as that page — do not edit it by
@@ -17,7 +17,7 @@ Kaapse Train Times is an independent app for Cape Town's Metrorail timetables. I
 
 ## What is stored on your device
 
-**Your saved preferences** — Favourite stations, saved journeys, recent stations and journeys, and your direction preference are held in your browser's local storage on your own device. They are never transmitted anywhere, and clearing the app's data or uninstalling it removes them.
+**Your saved preferences** — Favourite stations, saved journeys, recent stations and journeys, and your settings — direction preference, language, colour theme, and whether you've dismissed the install prompt — are held in your browser's local storage on your own device. They are never transmitted anywhere, and clearing the app's data or uninstalling it removes them.
 
 **The offline timetable** — The timetable and the app's own files are cached on your device so it works without a signal. This is a copy of public schedule data, not information about you.
 
@@ -43,4 +43,4 @@ Kaapse Train Times is an independent app for Cape Town's Metrorail timetables. I
 
 **Children** — The app is a public transport timetable. It is not directed at children, and it collects nothing from anyone, of any age, who does not submit a report.
 
-**Changes to this policy** — Last updated 2026-07-29. If what the app collects ever changes, this page changes with it — it is generated from the same source as the app's own privacy summary so the two cannot disagree.
+**Changes to this policy** — Last updated 2026-07-30. If what the app collects ever changes, this page changes with it — it is generated from the same source as the app's own privacy summary so the two cannot disagree.
