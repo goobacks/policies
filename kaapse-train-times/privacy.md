@@ -1,19 +1,21 @@
 # Privacy policy — Kaapse Train Times
 
-*Last updated: 2026-07-30*
+*Last updated: 2026-08-05*
 
 > The canonical version of this policy is published at <https://kaapsetrains.co.za/privacy/>.
 > This file is generated from the same source as that page — do not edit it by
 > hand; change `packages/web/src/content/privacy.ts` in the app repo and
 > regenerate, so the two can never disagree.
 
-Kaapse Train Times is an independent app for Cape Town's Metrorail timetables. It has no accounts, no adverts and no analytics, and it collects nothing about you unless you choose to send a problem report. This policy explains exactly what that means.
+Kaapse Train Times is an independent app for Cape Town's Metrorail timetables. It has no accounts and no adverts. It counts page views anonymously, and beyond that it collects nothing about you unless you choose to send a problem report. This policy explains exactly what that means.
 
 ## What the app collects
 
-**Nothing, until you send a report** — There is no sign-up, no advertising, no analytics and no tracking of any kind. The app does not measure which stations you look at, when you open it, or how long you use it. No profile of you exists because none is ever built.
+**Anonymous page-view counts** — The app uses Vercel Web Analytics — run by Vercel, the company that hosts the site — to count visits. Each page view records the page's address, the page that linked to it, the country and city the request came from, and the kind of device, browser and operating system. It sets no cookies and stores no identifier on your device; visitors are told apart by a temporary code that is discarded within a day, so views cannot be linked to you across days.
 
-**No cookies, no third-party scripts** — The app loads only its own files — no third-party scripts, fonts, beacons or embedded content. Its Content Security Policy restricts it to its own origin, so this is enforced by your browser rather than only promised here.
+**No accounts, no adverts, no profile** — There is no sign-up and no advertising. The counts above say that a screen was viewed, not who viewed it — the app still does not know who you are, and no profile of you exists because none is ever built.
+
+**No cookies, no third-party scripts** — The app loads only files served from its own web address — no third-party scripts, fonts or embedded content. The analytics script is served the same way, by the app's own host from the app's own address. Its Content Security Policy restricts it to its own origin, so this is enforced by your browser rather than only promised here.
 
 ## What is stored on your device
 
@@ -35,7 +37,7 @@ Kaapse Train Times is an independent app for Cape Town's Metrorail timetables. I
 
 ## Hosting
 
-**Vercel** — The site is hosted by Vercel, which — like any web host — processes the requests your browser makes in order to serve the pages. That is ordinary server operation, not analytics run by this app.
+**Vercel** — The site is hosted by Vercel, which — like any web host — processes the requests your browser makes in order to serve the pages. Vercel also provides the anonymous page-view counting described under “What the app collects”, so the counts stay with the host rather than adding another company to the list.
 
 ## Your rights and contact
 
@@ -43,4 +45,4 @@ Kaapse Train Times is an independent app for Cape Town's Metrorail timetables. I
 
 **Children** — The app is a public transport timetable. It is not directed at children, and it collects nothing from anyone, of any age, who does not submit a report.
 
-**Changes to this policy** — Last updated 2026-07-30. If what the app collects ever changes, this page changes with it — it is generated from the same source as the app's own privacy summary so the two cannot disagree.
+**Changes to this policy** — Last updated 2026-08-05. If what the app collects ever changes, this page changes with it — it is generated from the same source as the app's own privacy summary so the two cannot disagree.
