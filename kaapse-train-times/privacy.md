@@ -1,6 +1,6 @@
 # Privacy policy — Kaapse Train Times
 
-*Last updated: 2026-08-05*
+*Last updated: 2026-09-28*
 
 > The canonical version of this policy is published at <https://kaapsetrains.co.za/privacy/>.
 > This file is generated from the same source as that page — do not edit it by
@@ -25,7 +25,7 @@ Kaapse Train Times is an independent app for Cape Town's Metrorail timetables. I
 
 ## Problem reports
 
-**Only if you fill in the form and tap Send** — Nothing is transmitted unless you actively submit a report. The report form is the only part of the app that sends anything anywhere.
+**Only if you fill in the form and tap Send** — Beyond the anonymous page-view counts described above, nothing else leaves your device unless you actively submit a report. The report form is the only part of the app that sends anything you typed, anywhere.
 
 **What a report contains** — What you typed; the category you chose; the screen you were on (line, station, direction, timetable day, or journey); your email address if — and only if — you entered one; the browser and device identification string your browser sends with every web request (its user agent), which helps diagnose app problems; and the time it was received. Nothing else.
 
@@ -45,4 +45,4 @@ Kaapse Train Times is an independent app for Cape Town's Metrorail timetables. I
 
 **Children** — The app is a public transport timetable. It is not directed at children, and it collects nothing from anyone, of any age, who does not submit a report.
 
-**Changes to this policy** — Last updated 2026-08-05. If what the app collects ever changes, this page changes with it — it is generated from the same source as the app's own privacy summary so the two cannot disagree.
+**Changes to this policy** — Last updated 2026-09-28. If what the app collects ever changes, this page changes with it — it is generated from the same source as the app's own privacy summary so the two cannot disagree.
