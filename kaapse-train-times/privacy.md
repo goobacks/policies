@@ -33,7 +33,7 @@ Kaapse Train Times is an independent app for Cape Town's Metrorail timetables. I
 
 **Your IP address**: The server sees your IP address, as every web server does, and uses it briefly in memory to stop one source flooding the form with reports. It is not written to the report, not included in the email, and not stored: it is discarded when the server instance recycles.
 
-**How long reports are kept**: A report is an email in an inbox. It is kept while it is useful for fixing what you reported and for checking the correction later, then deleted. You can ask for yours to be deleted sooner by writing to nick004@gmail.com.
+**How long reports are kept**: A report is an email in an inbox. It is kept while it is useful for fixing what you reported and for checking the correction later, then deleted. You can ask for yours to be deleted sooner by writing to hello@hyperfocushive.com.
 
 ## Hosting
 
@@ -41,7 +41,7 @@ Kaapse Train Times is an independent app for Cape Town's Metrorail timetables. I
 
 ## Your rights and contact
 
-**Asking about your data**: Write to nick004@gmail.com. Because the app holds nothing about you beyond any report you chose to send, a request usually amounts to deleting that report, which will be done on request.
+**Asking about your data**: Write to hello@hyperfocushive.com. Because the app holds nothing about you beyond any report you chose to send, a request usually amounts to deleting that report, which will be done on request.
 
 **Children**: The app is a public transport timetable. It is not directed at children, and it collects nothing from anyone, of any age, who does not submit a report.
 
