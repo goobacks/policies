@@ -11,7 +11,7 @@ Kaapse Train Times is an independent app for Cape Town's Metrorail timetables. I
 
 ## What the app collects
 
-**Anonymous page-view counts**: The website uses Vercel Web Analytics (run by Vercel, the company that hosts the site) to count visits. The Android app counts no page views at all. Each page view records the page's address, the page that linked to it, the country and city the request came from, and the kind of device, browser and operating system. It sets no cookies and stores no identifier on your device; visitors are told apart by a temporary code that is discarded within a day, so views cannot be linked to you across days.
+**Anonymous page-view counts**: The website uses Vercel Web Analytics (run by Vercel, the company that hosts the site) to count visits. The Android app counts no page views at all. Each page view records the page's address (without anything after a “?”, so not the stations of a journey search), the page that linked to it, the country and city the request came from, and the kind of device, browser and operating system. It sets no cookies and stores no identifier on your device; visitors are told apart by a temporary code that is discarded within a day, so views cannot be linked to you across days.
 
 **No accounts, no adverts, no profile**: There is no sign-up and no advertising. The counts above say that a screen was viewed, not who viewed it. The app still does not know who you are, and no profile of you exists because none is ever built.
 
@@ -55,4 +55,4 @@ Kaapse Train Times is an independent app for Cape Town's Metrorail timetables. I
 
 **Children**: The app is a public transport timetable. It is not directed at children, and it collects nothing from anyone, of any age, who does not submit a report.
 
-**Changes to this policy**: Last updated 2026-10-18. If what the app collects ever changes, this page changes with it: it is generated from the same source as the app's own privacy summary so the two cannot disagree.
+**Changes to this policy**: Last updated 2026-10-18. If what the app collects ever changes, this page changes with it, and so does the shorter privacy summary on the app's help page, which states the same facts in fewer words.
