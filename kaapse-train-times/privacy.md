@@ -1,6 +1,6 @@
 # Privacy policy | Kaapse Train Times
 
-*Last updated: 2026-10-28*
+*Last updated: 2026-10-29*
 
 > The canonical version of this policy is published at <https://kaapsetrains.co.za/privacy/>.
 > This file is generated from the same source as that page: do not edit it by
@@ -23,11 +23,15 @@ Kaapse Train Times is an independent app for Cape Town's Metrorail timetables. I
 
 **Google Play's rating prompt**: Now and then, the Android app may ask Google Play to show its own prompt to rate the app. Google shows and runs that prompt under its own privacy policy. The app is not told whether you rated it or what you wrote.
 
+**Google Play app updates**: The Android app asks the Play Store on your phone whether a newer version is available, and if so shows a short note offering to update. Google runs the download and install under its own privacy policy. Nothing about this is sent to us.
+
 ## What is stored on your device
 
 **Your saved preferences**: Favourite stations, saved journeys, recent stations and journeys, and your settings (direction preference, language, colour theme, and whether you've dismissed the install prompt) are held in your browser's local storage on your own device. They are never transmitted anywhere, and clearing the app's data or uninstalling it removes them.
 
 **When to ask for a rating**: To keep that prompt rare, the Android app stores on your device how many days you have used it and when it last asked. This is never sent anywhere, and clearing the app's data or uninstalling it removes it.
+
+**Closed update notes**: If you close an update note, the Android app remembers on your device which version it was about and when, so it doesn't show it again for a week. This is never sent anywhere, and clearing the app's data or uninstalling it removes it.
 
 **The offline timetable**: The timetable and the app's own files are cached on your device so it works without a signal. This is a copy of public schedule data, not information about you.
 
@@ -59,4 +63,4 @@ Kaapse Train Times is an independent app for Cape Town's Metrorail timetables. I
 
 **Children**: The app is a public transport timetable. It is not directed at children, and it collects nothing from anyone, of any age, who does not submit a report.
 
-**Changes to this policy**: Last updated 2026-10-28. If what the app collects ever changes, this page changes with it, and so does the shorter privacy summary on the app's help page, which states the same facts in fewer words.
+**Changes to this policy**: Last updated 2026-10-29. If what the app collects ever changes, this page changes with it, and so does the shorter privacy summary on the app's help page, which states the same facts in fewer words.
