@@ -11,9 +11,9 @@ Kaapse Train Times is an independent app for Cape Town's Metrorail timetables. I
 
 ## What the app collects
 
-**Anonymous page-view counts**: The website uses Vercel Web Analytics (run by Vercel, the company that hosts the site) to count visits. The Android app counts no page views at all. Each page view records the page's address (without anything after a “?”, so not the stations of a journey search), the page that linked to it, the country and city the request came from, and the kind of device, browser and operating system. It sets no cookies and stores no identifier on your device; visitors are told apart by a temporary code that is discarded within a day, so views cannot be linked to you across days.
+**Anonymous page-view counts**: The website uses Vercel Web Analytics (run by Vercel, the company that hosts the site) to count visits. The Android app counts no page views at all. Each page view records the page's address (without anything after a “?”, except that for a journey search the count records which two stations were searched, never the day, time or train, and not linked to you), the page that linked to it, the country and city the request came from, and the kind of device, browser and operating system. It sets no cookies and stores no identifier on your device; visitors are told apart by a temporary code that is discarded within a day, so views cannot be linked to you across days.
 
-**No accounts, no adverts, no profile**: There is no sign-up and no advertising. The counts above say that a screen was viewed, not who viewed it. The app still does not know who you are, and no profile of you exists because none is ever built.
+**No accounts, no adverts, no profile**: There is no sign-up and no advertising. The counts above say that a screen was viewed (for a journey search, which two stations), not who viewed it. The app still does not know who you are, and no profile of you exists because none is ever built.
 
 **No cookies, no third-party scripts**: The app loads only files served from its own web address: no third-party scripts, fonts or embedded content. The analytics script is served the same way, by the app's own host from the app's own address. Its Content Security Policy restricts it to its own origin, so this is enforced by your browser rather than only promised here.
 
